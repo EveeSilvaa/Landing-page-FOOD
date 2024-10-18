@@ -49,6 +49,12 @@ Esta é uma landing page desenvolvida para um serviço de delivery de comida. O 
 - **Avaliações Dinâmicas**: Usar JavaScript ou frameworks de back-end para permitir que os usuários deixem suas próprias avaliações.
 - **Animações**: Adicionar mais transições suaves e animações para melhorar a experiência visual.
 
+## Resultados
+
+![imagem inicial](https://github.com/user-attachments/assets/daac45ed-29ba-4edf-9796-c5ec68827926)
+
+![continuação da pagina](https://github.com/user-attachments/assets/cc6953e8-8244-4fea-8154-7cce81b107d6)
+
+![imagem final](https://github.com/user-attachments/assets/cef005bb-0f84-4fc9-bb20-5075c95ebace)
 
 ---
-
